@@ -1,9 +1,9 @@
-# ReadMe Generator test
+# ReadMe Generator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description
   
-  This is a test of my ReadMe generator
+  This is a demonstration of my ReadMe Generator
   
   ## Table of Contents 
   
@@ -49,6 +49,7 @@
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at jondedwards13@gmail.com. You can find more of my work at [JonNotJohn440](https://github.com/JonNotJohn440/).
+  If you have any questions about the repo, open an issue or contact me directly at jondedwards13@gmail.com	. You can find more of my work at [JonNotJohn440](https://github.com/JonNotJohn440/).
   
   
+  [Live video walkthrough](https://drive.google.com/file/d/1VI7l2QUdMSVGLPrPM0lw4xmX-bBQNIyf/view)
